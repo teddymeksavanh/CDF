@@ -5,7 +5,7 @@ include "_debut.inc.php";
 
 echo " 
 
-
+azeazezaezaeza
 <div class='navbar navbar-inverse fixed-bottom'><div class='navbar-inner'>
 
 <table width='55%' cellspacing='0' cellpadding='5' align='center'>
